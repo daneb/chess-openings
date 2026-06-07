@@ -1,0 +1,43 @@
+{
+  "id": "ubgh1dkemq3xh4f5",
+  "name": "The Black Lion - Main Ideas",
+  "tree": {
+    "schemaVersion": 2,
+    "rootId": "geblxxf6mq3xgqt3",
+    "nodes": {
+      "geblxxf6mq3xgqt3": {
+        "id": "geblxxf6mq3xgqt3",
+        "parentId": null,
+        "ply": 0,
+        "state": {
+          "board": "rnbqkbnrpppppppp................................PPPPPPPPRNBQKBNR",
+          "turn": "w",
+          "castling": "KQkq",
+          "enPassant": null,
+          "halfmove": 0,
+          "fullmove": 1
+        },
+        "san": null,
+        "from": null,
+        "to": null,
+        "captured": null,
+        "promotion": null,
+        "childIds": [],
+        "comment": null,
+        "nag": null,
+        "status": null,
+        "lastSeenAt": null,
+        "lastDrilledAt": null,
+        "reviewCount": 0,
+        "tags": null
+      }
+    },
+    "byFen": {
+      "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -": [
+        "geblxxf6mq3xgqt3"
+      ]
+    }
+  },
+  "cursorOn": "geblxxf6mq3xgqt3",
+  "updatedAt": 1780845575585
+}
