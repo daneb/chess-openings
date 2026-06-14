@@ -106,6 +106,34 @@
         "to": 35,
         "captured": ".",
         "promotion": null,
+        "childIds": [
+          "0p86fuf2mqdzlu3z"
+        ],
+        "comment": null,
+        "nag": null,
+        "status": null,
+        "lastSeenAt": null,
+        "lastDrilledAt": null,
+        "reviewCount": 0,
+        "tags": null
+      },
+      "0p86fuf2mqdzlu3z": {
+        "id": "0p86fuf2mqdzlu3z",
+        "parentId": "o9ba2e8umqdzllwc",
+        "ply": 4,
+        "state": {
+          "board": "rnbqkb.rppp.pppp...p.n.............PP...........PPP..PPPRNBQKBNR",
+          "turn": "w",
+          "castling": "KQkq",
+          "enPassant": null,
+          "halfmove": 1,
+          "fullmove": 3
+        },
+        "san": "Nf6",
+        "from": 6,
+        "to": 21,
+        "captured": ".",
+        "promotion": null,
         "childIds": [],
         "comment": null,
         "nag": null,
@@ -128,9 +156,12 @@
       ],
       "rnbqkbnr/ppp1pppp/3p4/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq d3": [
         "o9ba2e8umqdzllwc"
+      ],
+      "rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -": [
+        "0p86fuf2mqdzlu3z"
       ]
     }
   },
-  "cursorOn": "o9ba2e8umqdzllwc",
-  "updatedAt": 1781453808246
+  "cursorOn": "0p86fuf2mqdzlu3z",
+  "updatedAt": 1781453820191
 }
