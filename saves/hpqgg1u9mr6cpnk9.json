@@ -1,0 +1,43 @@
+{
+  "id": "hpqgg1u9mr6cpnk9",
+  "name": "SA Open 2026 - Round 7",
+  "tree": {
+    "schemaVersion": 2,
+    "rootId": "m5xkhhhhmr6cpe0o",
+    "nodes": {
+      "m5xkhhhhmr6cpe0o": {
+        "id": "m5xkhhhhmr6cpe0o",
+        "parentId": null,
+        "ply": 0,
+        "state": {
+          "board": "rnbqkbnrpppppppp................................PPPPPPPPRNBQKBNR",
+          "turn": "w",
+          "castling": "KQkq",
+          "enPassant": null,
+          "halfmove": 0,
+          "fullmove": 1
+        },
+        "san": null,
+        "from": null,
+        "to": null,
+        "captured": null,
+        "promotion": null,
+        "childIds": [],
+        "comment": null,
+        "nag": null,
+        "status": null,
+        "lastSeenAt": null,
+        "lastDrilledAt": null,
+        "reviewCount": 0,
+        "tags": null
+      }
+    },
+    "byFen": {
+      "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -": [
+        "m5xkhhhhmr6cpe0o"
+      ]
+    }
+  },
+  "cursorOn": "m5xkhhhhmr6cpe0o",
+  "updatedAt": 1783168882569
+}
