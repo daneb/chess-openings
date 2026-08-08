@@ -782,8 +782,8 @@
         ],
         "comment": null,
         "nag": null,
-        "status": null,
-        "lastSeenAt": null,
+        "status": "reviewing",
+        "lastSeenAt": 1786173038716,
         "lastDrilledAt": null,
         "reviewCount": 0,
         "tags": null
@@ -812,7 +812,7 @@
         "comment": null,
         "nag": null,
         "status": "reviewing",
-        "lastSeenAt": 1786172766615,
+        "lastSeenAt": 1786173061549,
         "lastDrilledAt": null,
         "reviewCount": 0,
         "tags": null
@@ -840,7 +840,7 @@
         "comment": null,
         "nag": null,
         "status": "reviewing",
-        "lastSeenAt": 1786172807248,
+        "lastSeenAt": 1786173062744,
         "lastDrilledAt": null,
         "reviewCount": 0,
         "tags": null
@@ -921,8 +921,8 @@
         ],
         "comment": null,
         "nag": null,
-        "status": null,
-        "lastSeenAt": null,
+        "status": "reviewing",
+        "lastSeenAt": 1786173073781,
         "lastDrilledAt": null,
         "reviewCount": 0,
         "tags": null
@@ -949,8 +949,8 @@
         ],
         "comment": null,
         "nag": null,
-        "status": null,
-        "lastSeenAt": null,
+        "status": "reviewing",
+        "lastSeenAt": 1786173075855,
         "lastDrilledAt": null,
         "reviewCount": 0,
         "tags": null
@@ -977,8 +977,8 @@
         ],
         "comment": null,
         "nag": null,
-        "status": null,
-        "lastSeenAt": null,
+        "status": "reviewing",
+        "lastSeenAt": 1786173082877,
         "lastDrilledAt": null,
         "reviewCount": 0,
         "tags": null
@@ -1005,8 +1005,8 @@
         ],
         "comment": null,
         "nag": null,
-        "status": null,
-        "lastSeenAt": null,
+        "status": "reviewing",
+        "lastSeenAt": 1786173085635,
         "lastDrilledAt": null,
         "reviewCount": 0,
         "tags": null
@@ -1033,8 +1033,8 @@
         ],
         "comment": null,
         "nag": null,
-        "status": null,
-        "lastSeenAt": null,
+        "status": "reviewing",
+        "lastSeenAt": 1786173088561,
         "lastDrilledAt": null,
         "reviewCount": 0,
         "tags": null
@@ -1059,8 +1059,8 @@
         "childIds": [],
         "comment": null,
         "nag": null,
-        "status": null,
-        "lastSeenAt": null,
+        "status": "reviewing",
+        "lastSeenAt": 1786173089155,
         "lastDrilledAt": null,
         "reviewCount": 0,
         "tags": null
@@ -1184,5 +1184,5 @@
     }
   },
   "cursorOn": "hs8tjfcdmsk1atq4",
-  "updatedAt": 1786173031834
+  "updatedAt": 1786173094285
 }
