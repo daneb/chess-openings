@@ -1,0 +1,43 @@
+{
+  "id": "qk6663demsjyu3fx",
+  "name": "BuildUpYourChess-2.7",
+  "tree": {
+    "schemaVersion": 2,
+    "rootId": "945rne7dmsjyts1p",
+    "nodes": {
+      "945rne7dmsjyts1p": {
+        "id": "945rne7dmsjyts1p",
+        "parentId": null,
+        "ply": 0,
+        "state": {
+          "board": "rnbqkbnrpppppppp................................PPPPPPPPRNBQKBNR",
+          "turn": "w",
+          "castling": "KQkq",
+          "enPassant": null,
+          "halfmove": 0,
+          "fullmove": 1
+        },
+        "san": null,
+        "from": null,
+        "to": null,
+        "captured": null,
+        "promotion": null,
+        "childIds": [],
+        "comment": null,
+        "nag": null,
+        "status": null,
+        "lastSeenAt": null,
+        "lastDrilledAt": null,
+        "reviewCount": 0,
+        "tags": null
+      }
+    },
+    "byFen": {
+      "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -": [
+        "945rne7dmsjyts1p"
+      ]
+    }
+  },
+  "cursorOn": "945rne7dmsjyts1p",
+  "updatedAt": 1786168883949
+}
