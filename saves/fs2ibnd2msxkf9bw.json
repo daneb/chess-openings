@@ -1,0 +1,43 @@
+{
+  "id": "fs2ibnd2msxkf9bw",
+  "name": "Club 2026 - Round 2 - Match 1",
+  "tree": {
+    "schemaVersion": 2,
+    "rootId": "bqic19iemsxkemey",
+    "nodes": {
+      "bqic19iemsxkemey": {
+        "id": "bqic19iemsxkemey",
+        "parentId": null,
+        "ply": 0,
+        "state": {
+          "board": "rnbqkbnrpppppppp................................PPPPPPPPRNBQKBNR",
+          "turn": "w",
+          "castling": "KQkq",
+          "enPassant": null,
+          "halfmove": 0,
+          "fullmove": 1
+        },
+        "san": null,
+        "from": null,
+        "to": null,
+        "captured": null,
+        "promotion": null,
+        "childIds": [],
+        "comment": null,
+        "nag": null,
+        "status": null,
+        "lastSeenAt": null,
+        "lastDrilledAt": null,
+        "reviewCount": 0,
+        "tags": null
+      }
+    },
+    "byFen": {
+      "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -": [
+        "bqic19iemsxkemey"
+      ]
+    }
+  },
+  "cursorOn": "bqic19iemsxkemey",
+  "updatedAt": 1786991203580
+}
