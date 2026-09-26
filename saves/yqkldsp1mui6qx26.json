@@ -1,0 +1,43 @@
+{
+  "id": "yqkldsp1mui6qx26",
+  "name": "CTCF League 2026 Last Game",
+  "tree": {
+    "schemaVersion": 2,
+    "rootId": "wc6zvcq3mui6qfi7",
+    "nodes": {
+      "wc6zvcq3mui6qfi7": {
+        "id": "wc6zvcq3mui6qfi7",
+        "parentId": null,
+        "ply": 0,
+        "state": {
+          "board": "rnbqkbnrpppppppp................................PPPPPPPPRNBQKBNR",
+          "turn": "w",
+          "castling": "KQkq",
+          "enPassant": null,
+          "halfmove": 0,
+          "fullmove": 1
+        },
+        "san": null,
+        "from": null,
+        "to": null,
+        "captured": null,
+        "promotion": null,
+        "childIds": [],
+        "comment": null,
+        "nag": null,
+        "status": null,
+        "lastSeenAt": null,
+        "lastDrilledAt": null,
+        "reviewCount": 0,
+        "tags": null
+      }
+    },
+    "byFen": {
+      "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -": [
+        "wc6zvcq3mui6qfi7"
+      ]
+    }
+  },
+  "cursorOn": "wc6zvcq3mui6qfi7",
+  "updatedAt": 1790414804958
+}
