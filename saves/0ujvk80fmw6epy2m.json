@@ -246,6 +246,566 @@
         "to": 19,
         "captured": ".",
         "promotion": null,
+        "childIds": [
+          "u9kft0bamw6erx4j"
+        ],
+        "comment": null,
+        "nag": null,
+        "status": null,
+        "lastSeenAt": null,
+        "lastDrilledAt": null,
+        "reviewCount": 0,
+        "tags": null
+      },
+      "u9kft0bamw6erx4j": {
+        "id": "u9kft0bamw6erx4j",
+        "parentId": "jsek6v52mw6erppe",
+        "ply": 9,
+        "state": {
+          "board": "rnbqk..rppp.ppbp...p.np...........PPP.....N..N..PP...PPPR.BQKB.R",
+          "turn": "b",
+          "castling": "KQkq",
+          "enPassant": null,
+          "halfmove": 1,
+          "fullmove": 5
+        },
+        "san": "Nf3",
+        "from": 62,
+        "to": 45,
+        "captured": ".",
+        "promotion": null,
+        "childIds": [
+          "1fgzugg3mw6erz55"
+        ],
+        "comment": null,
+        "nag": null,
+        "status": null,
+        "lastSeenAt": null,
+        "lastDrilledAt": null,
+        "reviewCount": 0,
+        "tags": null
+      },
+      "1fgzugg3mw6erz55": {
+        "id": "1fgzugg3mw6erz55",
+        "parentId": "u9kft0bamw6erx4j",
+        "ply": 10,
+        "state": {
+          "board": "rnbq.rk.ppp.ppbp...p.np...........PPP.....N..N..PP...PPPR.BQKB.R",
+          "turn": "w",
+          "castling": "KQ",
+          "enPassant": null,
+          "halfmove": 2,
+          "fullmove": 6
+        },
+        "san": "O-O",
+        "from": 4,
+        "to": 6,
+        "captured": ".",
+        "promotion": null,
+        "childIds": [
+          "81n2ueofmw6esezi"
+        ],
+        "comment": null,
+        "nag": null,
+        "status": null,
+        "lastSeenAt": null,
+        "lastDrilledAt": null,
+        "reviewCount": 0,
+        "tags": null
+      },
+      "81n2ueofmw6esezi": {
+        "id": "81n2ueofmw6esezi",
+        "parentId": "1fgzugg3mw6erz55",
+        "ply": 11,
+        "state": {
+          "board": "rnbq.rk.ppp.ppbp...p.np...........PPP.....N..N..PP..BPPPR.BQK..R",
+          "turn": "b",
+          "castling": "KQ",
+          "enPassant": null,
+          "halfmove": 3,
+          "fullmove": 6
+        },
+        "san": "Be2",
+        "from": 61,
+        "to": 52,
+        "captured": ".",
+        "promotion": null,
+        "childIds": [
+          "oq5vuzusmw6eslbt"
+        ],
+        "comment": null,
+        "nag": null,
+        "status": null,
+        "lastSeenAt": null,
+        "lastDrilledAt": null,
+        "reviewCount": 0,
+        "tags": null
+      },
+      "oq5vuzusmw6eslbt": {
+        "id": "oq5vuzusmw6eslbt",
+        "parentId": "81n2ueofmw6esezi",
+        "ply": 12,
+        "state": {
+          "board": "rnbq.rk.ppp..pbp...p.np.....p.....PPP.....N..N..PP..BPPPR.BQK..R",
+          "turn": "w",
+          "castling": "KQ",
+          "enPassant": 20,
+          "halfmove": 0,
+          "fullmove": 7
+        },
+        "san": "e5",
+        "from": 12,
+        "to": 28,
+        "captured": ".",
+        "promotion": null,
+        "childIds": [
+          "8wop80wkmw6espff"
+        ],
+        "comment": null,
+        "nag": null,
+        "status": null,
+        "lastSeenAt": null,
+        "lastDrilledAt": null,
+        "reviewCount": 0,
+        "tags": null
+      },
+      "8wop80wkmw6espff": {
+        "id": "8wop80wkmw6espff",
+        "parentId": "oq5vuzusmw6eslbt",
+        "ply": 13,
+        "state": {
+          "board": "rnbq.rk.ppp..pbp...p.np.....P.....P.P.....N..N..PP..BPPPR.BQK..R",
+          "turn": "b",
+          "castling": "KQ",
+          "enPassant": null,
+          "halfmove": 0,
+          "fullmove": 7
+        },
+        "san": "dxe5",
+        "from": 35,
+        "to": 28,
+        "captured": "p",
+        "promotion": null,
+        "childIds": [
+          "vdwadj3rmw6essmr"
+        ],
+        "comment": null,
+        "nag": null,
+        "status": null,
+        "lastSeenAt": null,
+        "lastDrilledAt": null,
+        "reviewCount": 0,
+        "tags": null
+      },
+      "vdwadj3rmw6essmr": {
+        "id": "vdwadj3rmw6essmr",
+        "parentId": "8wop80wkmw6espff",
+        "ply": 14,
+        "state": {
+          "board": "rnbq.rk.ppp..pbp.....np.....p.....P.P.....N..N..PP..BPPPR.BQK..R",
+          "turn": "w",
+          "castling": "KQ",
+          "enPassant": null,
+          "halfmove": 0,
+          "fullmove": 8
+        },
+        "san": "dxe5",
+        "from": 19,
+        "to": 28,
+        "captured": "P",
+        "promotion": null,
+        "childIds": [
+          "skktpz8vmw6esx6p"
+        ],
+        "comment": null,
+        "nag": null,
+        "status": null,
+        "lastSeenAt": null,
+        "lastDrilledAt": null,
+        "reviewCount": 0,
+        "tags": null
+      },
+      "skktpz8vmw6esx6p": {
+        "id": "skktpz8vmw6esx6p",
+        "parentId": "vdwadj3rmw6essmr",
+        "ply": 15,
+        "state": {
+          "board": "rnbQ.rk.ppp..pbp.....np.....p.....P.P.....N..N..PP..BPPPR.B.K..R",
+          "turn": "b",
+          "castling": "KQ",
+          "enPassant": null,
+          "halfmove": 0,
+          "fullmove": 8
+        },
+        "san": "Qxd8",
+        "from": 59,
+        "to": 3,
+        "captured": "q",
+        "promotion": null,
+        "childIds": [
+          "2ac0ckthmw6esyf4"
+        ],
+        "comment": null,
+        "nag": null,
+        "status": null,
+        "lastSeenAt": null,
+        "lastDrilledAt": null,
+        "reviewCount": 0,
+        "tags": null
+      },
+      "2ac0ckthmw6esyf4": {
+        "id": "2ac0ckthmw6esyf4",
+        "parentId": "skktpz8vmw6esx6p",
+        "ply": 16,
+        "state": {
+          "board": "rnbr..k.ppp..pbp.....np.....p.....P.P.....N..N..PP..BPPPR.B.K..R",
+          "turn": "w",
+          "castling": "KQ",
+          "enPassant": null,
+          "halfmove": 0,
+          "fullmove": 9
+        },
+        "san": "Rxd8",
+        "from": 5,
+        "to": 3,
+        "captured": "Q",
+        "promotion": null,
+        "childIds": [
+          "018xwhzdmw6et3ie"
+        ],
+        "comment": null,
+        "nag": null,
+        "status": null,
+        "lastSeenAt": null,
+        "lastDrilledAt": null,
+        "reviewCount": 0,
+        "tags": null
+      },
+      "018xwhzdmw6et3ie": {
+        "id": "018xwhzdmw6et3ie",
+        "parentId": "2ac0ckthmw6esyf4",
+        "ply": 17,
+        "state": {
+          "board": "rnbr..k.ppp..pbp.....np.....p.B...P.P.....N..N..PP..BPPPR...K..R",
+          "turn": "b",
+          "castling": "KQ",
+          "enPassant": null,
+          "halfmove": 1,
+          "fullmove": 9
+        },
+        "san": "Bg5",
+        "from": 58,
+        "to": 30,
+        "captured": ".",
+        "promotion": null,
+        "childIds": [
+          "u4xvgd11mw6etgl8"
+        ],
+        "comment": null,
+        "nag": null,
+        "status": null,
+        "lastSeenAt": null,
+        "lastDrilledAt": null,
+        "reviewCount": 0,
+        "tags": null
+      },
+      "u4xvgd11mw6etgl8": {
+        "id": "u4xvgd11mw6etgl8",
+        "parentId": "018xwhzdmw6et3ie",
+        "ply": 18,
+        "state": {
+          "board": "r.br..k.ppp..pbpn....np.....p.B...P.P.....N..N..PP..BPPPR...K..R",
+          "turn": "w",
+          "castling": "KQ",
+          "enPassant": null,
+          "halfmove": 2,
+          "fullmove": 10
+        },
+        "san": "Na6",
+        "from": 1,
+        "to": 16,
+        "captured": ".",
+        "promotion": null,
+        "childIds": [
+          "me77imj6mw6euhnh"
+        ],
+        "comment": null,
+        "nag": null,
+        "status": null,
+        "lastSeenAt": null,
+        "lastDrilledAt": null,
+        "reviewCount": 0,
+        "tags": null
+      },
+      "me77imj6mw6euhnh": {
+        "id": "me77imj6mw6euhnh",
+        "parentId": "u4xvgd11mw6etgl8",
+        "ply": 19,
+        "state": {
+          "board": "r.br..k.ppp..pbpn....np....Np.B...P.P........N..PP..BPPPR...K..R",
+          "turn": "b",
+          "castling": "KQ",
+          "enPassant": null,
+          "halfmove": 3,
+          "fullmove": 10
+        },
+        "san": "Nd5",
+        "from": 42,
+        "to": 27,
+        "captured": ".",
+        "promotion": null,
+        "childIds": [
+          "9nhxcvtomw6eux84"
+        ],
+        "comment": null,
+        "nag": null,
+        "status": null,
+        "lastSeenAt": null,
+        "lastDrilledAt": null,
+        "reviewCount": 0,
+        "tags": null
+      },
+      "9nhxcvtomw6eux84": {
+        "id": "9nhxcvtomw6eux84",
+        "parentId": "me77imj6mw6euhnh",
+        "ply": 20,
+        "state": {
+          "board": "r.b...k.ppp..pbpn..r.np....Np.B...P.P........N..PP..BPPPR...K..R",
+          "turn": "w",
+          "castling": "KQ",
+          "enPassant": null,
+          "halfmove": 4,
+          "fullmove": 11
+        },
+        "san": "Rd6",
+        "from": 3,
+        "to": 19,
+        "captured": ".",
+        "promotion": null,
+        "childIds": [
+          "bdrh2t1cmw6ev8lu"
+        ],
+        "comment": null,
+        "nag": null,
+        "status": null,
+        "lastSeenAt": null,
+        "lastDrilledAt": null,
+        "reviewCount": 0,
+        "tags": null
+      },
+      "bdrh2t1cmw6ev8lu": {
+        "id": "bdrh2t1cmw6ev8lu",
+        "parentId": "9nhxcvtomw6eux84",
+        "ply": 21,
+        "state": {
+          "board": "r.b...k.ppp..pbpn..r.Bp....Np.....P.P........N..PP..BPPPR...K..R",
+          "turn": "b",
+          "castling": "KQ",
+          "enPassant": null,
+          "halfmove": 0,
+          "fullmove": 11
+        },
+        "san": "Bxf6",
+        "from": 30,
+        "to": 21,
+        "captured": "n",
+        "promotion": null,
+        "childIds": [
+          "odehw3w9mw6ev9mv"
+        ],
+        "comment": null,
+        "nag": null,
+        "status": null,
+        "lastSeenAt": null,
+        "lastDrilledAt": null,
+        "reviewCount": 0,
+        "tags": null
+      },
+      "odehw3w9mw6ev9mv": {
+        "id": "odehw3w9mw6ev9mv",
+        "parentId": "bdrh2t1cmw6ev8lu",
+        "ply": 22,
+        "state": {
+          "board": "r.b...k.ppp..p.pn..r.bp....Np.....P.P........N..PP..BPPPR...K..R",
+          "turn": "w",
+          "castling": "KQ",
+          "enPassant": null,
+          "halfmove": 0,
+          "fullmove": 12
+        },
+        "san": "Bxf6",
+        "from": 14,
+        "to": 21,
+        "captured": "B",
+        "promotion": null,
+        "childIds": [
+          "4w4hvh3dmw6evh13"
+        ],
+        "comment": null,
+        "nag": null,
+        "status": null,
+        "lastSeenAt": null,
+        "lastDrilledAt": null,
+        "reviewCount": 0,
+        "tags": null
+      },
+      "4w4hvh3dmw6evh13": {
+        "id": "4w4hvh3dmw6evh13",
+        "parentId": "odehw3w9mw6ev9mv",
+        "ply": 23,
+        "state": {
+          "board": "r.b...k.ppp..p.pn..r.bp....Np....PP.P........N..P...BPPPR...K..R",
+          "turn": "b",
+          "castling": "KQ",
+          "enPassant": 41,
+          "halfmove": 0,
+          "fullmove": 12
+        },
+        "san": "b4",
+        "from": 49,
+        "to": 33,
+        "captured": ".",
+        "promotion": null,
+        "childIds": [
+          "xy4o2gpcmw6ew149"
+        ],
+        "comment": null,
+        "nag": null,
+        "status": null,
+        "lastSeenAt": null,
+        "lastDrilledAt": null,
+        "reviewCount": 0,
+        "tags": null
+      },
+      "xy4o2gpcmw6ew149": {
+        "id": "xy4o2gpcmw6ew149",
+        "parentId": "4w4hvh3dmw6evh13",
+        "ply": 24,
+        "state": {
+          "board": "r.b...k.pp...p.pn.pr.bp....Np....PP.P........N..P...BPPPR...K..R",
+          "turn": "w",
+          "castling": "KQ",
+          "enPassant": null,
+          "halfmove": 0,
+          "fullmove": 13
+        },
+        "san": "c6",
+        "from": 10,
+        "to": 18,
+        "captured": ".",
+        "promotion": null,
+        "childIds": [
+          "o6q3vtbwmw6ewl8c"
+        ],
+        "comment": null,
+        "nag": null,
+        "status": null,
+        "lastSeenAt": null,
+        "lastDrilledAt": null,
+        "reviewCount": 0,
+        "tags": null
+      },
+      "o6q3vtbwmw6ewl8c": {
+        "id": "o6q3vtbwmw6ewl8c",
+        "parentId": "xy4o2gpcmw6ew149",
+        "ply": 25,
+        "state": {
+          "board": "r.b...k.pp...p.pn.pr.Np.....p....PP.P........N..P...BPPPR...K..R",
+          "turn": "b",
+          "castling": "KQ",
+          "enPassant": null,
+          "halfmove": 0,
+          "fullmove": 13
+        },
+        "san": "Nxf6+",
+        "from": 27,
+        "to": 21,
+        "captured": "b",
+        "promotion": null,
+        "childIds": [
+          "qt0zy12ymw6ewnbc"
+        ],
+        "comment": null,
+        "nag": null,
+        "status": null,
+        "lastSeenAt": null,
+        "lastDrilledAt": null,
+        "reviewCount": 0,
+        "tags": null
+      },
+      "qt0zy12ymw6ewnbc": {
+        "id": "qt0zy12ymw6ewnbc",
+        "parentId": "o6q3vtbwmw6ewl8c",
+        "ply": 26,
+        "state": {
+          "board": "r.b...k.pp...p.pn.p..rp.....p....PP.P........N..P...BPPPR...K..R",
+          "turn": "w",
+          "castling": "KQ",
+          "enPassant": null,
+          "halfmove": 0,
+          "fullmove": 14
+        },
+        "san": "Rxf6",
+        "from": 19,
+        "to": 21,
+        "captured": "N",
+        "promotion": null,
+        "childIds": [
+          "5w8qf08hmw6ewscs"
+        ],
+        "comment": null,
+        "nag": null,
+        "status": null,
+        "lastSeenAt": null,
+        "lastDrilledAt": null,
+        "reviewCount": 0,
+        "tags": null
+      },
+      "5w8qf08hmw6ewscs": {
+        "id": "5w8qf08hmw6ewscs",
+        "parentId": "qt0zy12ymw6ewnbc",
+        "ply": 27,
+        "state": {
+          "board": "r.b...k.pp...p.pn.p..rp.....p....PP.P...P....N......BPPPR...K..R",
+          "turn": "b",
+          "castling": "KQ",
+          "enPassant": null,
+          "halfmove": 0,
+          "fullmove": 14
+        },
+        "san": "a3",
+        "from": 48,
+        "to": 40,
+        "captured": ".",
+        "promotion": null,
+        "childIds": [
+          "dfwbcfl8mw6ex2rc"
+        ],
+        "comment": null,
+        "nag": null,
+        "status": null,
+        "lastSeenAt": null,
+        "lastDrilledAt": null,
+        "reviewCount": 0,
+        "tags": null
+      },
+      "dfwbcfl8mw6ex2rc": {
+        "id": "dfwbcfl8mw6ex2rc",
+        "parentId": "5w8qf08hmw6ewscs",
+        "ply": 28,
+        "state": {
+          "board": "r.....k.pp...p.pn.p..rp.....p....PP.P.b.P....N......BPPPR...K..R",
+          "turn": "w",
+          "castling": "KQ",
+          "enPassant": null,
+          "halfmove": 1,
+          "fullmove": 15
+        },
+        "san": "Bg4",
+        "from": 2,
+        "to": 38,
+        "captured": ".",
+        "promotion": null,
         "childIds": [],
         "comment": null,
         "nag": null,
@@ -283,9 +843,69 @@
       ],
       "rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR w KQkq -": [
         "jsek6v52mw6erppe"
+      ],
+      "rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP3PPP/R1BQKB1R b KQkq -": [
+        "u9kft0bamw6erx4j"
+      ],
+      "rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP3PPP/R1BQKB1R w KQ -": [
+        "1fgzugg3mw6erz55"
+      ],
+      "rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP2BPPP/R1BQK2R b KQ -": [
+        "81n2ueofmw6esezi"
+      ],
+      "rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQK2R w KQ e6": [
+        "oq5vuzusmw6eslbt"
+      ],
+      "rnbq1rk1/ppp2pbp/3p1np1/4P3/2P1P3/2N2N2/PP2BPPP/R1BQK2R b KQ -": [
+        "8wop80wkmw6espff"
+      ],
+      "rnbq1rk1/ppp2pbp/5np1/4p3/2P1P3/2N2N2/PP2BPPP/R1BQK2R w KQ -": [
+        "vdwadj3rmw6essmr"
+      ],
+      "rnbQ1rk1/ppp2pbp/5np1/4p3/2P1P3/2N2N2/PP2BPPP/R1B1K2R b KQ -": [
+        "skktpz8vmw6esx6p"
+      ],
+      "rnbr2k1/ppp2pbp/5np1/4p3/2P1P3/2N2N2/PP2BPPP/R1B1K2R w KQ -": [
+        "2ac0ckthmw6esyf4"
+      ],
+      "rnbr2k1/ppp2pbp/5np1/4p1B1/2P1P3/2N2N2/PP2BPPP/R3K2R b KQ -": [
+        "018xwhzdmw6et3ie"
+      ],
+      "r1br2k1/ppp2pbp/n4np1/4p1B1/2P1P3/2N2N2/PP2BPPP/R3K2R w KQ -": [
+        "u4xvgd11mw6etgl8"
+      ],
+      "r1br2k1/ppp2pbp/n4np1/3Np1B1/2P1P3/5N2/PP2BPPP/R3K2R b KQ -": [
+        "me77imj6mw6euhnh"
+      ],
+      "r1b3k1/ppp2pbp/n2r1np1/3Np1B1/2P1P3/5N2/PP2BPPP/R3K2R w KQ -": [
+        "9nhxcvtomw6eux84"
+      ],
+      "r1b3k1/ppp2pbp/n2r1Bp1/3Np3/2P1P3/5N2/PP2BPPP/R3K2R b KQ -": [
+        "bdrh2t1cmw6ev8lu"
+      ],
+      "r1b3k1/ppp2p1p/n2r1bp1/3Np3/2P1P3/5N2/PP2BPPP/R3K2R w KQ -": [
+        "odehw3w9mw6ev9mv"
+      ],
+      "r1b3k1/ppp2p1p/n2r1bp1/3Np3/1PP1P3/5N2/P3BPPP/R3K2R b KQ b3": [
+        "4w4hvh3dmw6evh13"
+      ],
+      "r1b3k1/pp3p1p/n1pr1bp1/3Np3/1PP1P3/5N2/P3BPPP/R3K2R w KQ -": [
+        "xy4o2gpcmw6ew149"
+      ],
+      "r1b3k1/pp3p1p/n1pr1Np1/4p3/1PP1P3/5N2/P3BPPP/R3K2R b KQ -": [
+        "o6q3vtbwmw6ewl8c"
+      ],
+      "r1b3k1/pp3p1p/n1p2rp1/4p3/1PP1P3/5N2/P3BPPP/R3K2R w KQ -": [
+        "qt0zy12ymw6ewnbc"
+      ],
+      "r1b3k1/pp3p1p/n1p2rp1/4p3/1PP1P3/P4N2/4BPPP/R3K2R b KQ -": [
+        "5w8qf08hmw6ewscs"
+      ],
+      "r5k1/pp3p1p/n1p2rp1/4p3/1PP1P1b1/P4N2/4BPPP/R3K2R w KQ -": [
+        "dfwbcfl8mw6ex2rc"
       ]
     }
   },
-  "cursorOn": "jsek6v52mw6erppe",
-  "updatedAt": 1794056254350
+  "cursorOn": "dfwbcfl8mw6ex2rc",
+  "updatedAt": 1794056506616
 }
